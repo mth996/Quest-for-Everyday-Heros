@@ -30,6 +30,10 @@ The game is being developed as the practical component of my MSc in Computing by
 
 The game is organised as a progression through three environments. Each level introduces a different set of everyday activities and practical tasks while maintaining a structured gameplay loop built around guidance, interaction, task completion, and progression.
 
+### Overall Game Flow
+
+![Overall gameplay flowchart](full%20game%20flowchart.png)
+
 ### Level 1 — Home & Morning Routine
 
 The first level introduces the player to a familiar home environment and a sequence of morning activities.
@@ -39,6 +43,10 @@ The first level introduces the player to a familiar home environment and a seque
 `Bedroom → Brush Teeth → Get Dressed → Breakfast → Main Gate → Catch the Bus`
 
 The level is designed around completing a morning routine in sequence, moving between areas of the home and interacting with the environment before leaving for school.
+
+#### Level 1 Flowchart
+
+![Level 1 gameplay flowchart](level%201%20flowchart.png)
 
 ### Level 2 — School
 
@@ -50,6 +58,10 @@ The second level moves the player into a school environment and introduces educa
 
 This level combines classroom activities with physical and object-based tasks, requiring the player to move through the school environment and complete a structured sequence before progressing.
 
+#### Level 2 Flowchart
+
+![Level 2 gameplay flowchart](level%202%20flowchart.png)
+
 ### Level 3 — Farm
 
 The third level places the player in a farm environment and focuses on practical, goal-oriented activities.
@@ -59,6 +71,10 @@ The third level places the player in a farm environment and focuses on practical
 `Deliver Basket → Water Plants → Carry Crates → Load the Truck`
 
 The farm level expands the experience into tasks involving object handling, environmental interaction, and completing practical responsibilities in sequence.
+
+#### Level 3 Flowchart
+
+![Level 3 gameplay flowchart](level%203%20flowchart.png)
 
 ## Core Gameplay Approach
 
@@ -93,29 +109,39 @@ Development includes gameplay programming, XR interaction design, environment de
 
 ## Concept Design & Development Gallery
 
-The visual case study will document the progression from early design to the implemented VR environments.
+The visual case study documents how each environment and player journey progressed from early concept planning toward the implemented VR experience.
 
-Planned sections include:
+### Level 1 — Home & Morning Routine
 
-- Level 1 — Home concept design and environment development
-- Level 2 — School concept design and environment development
-- Level 3 — Farm concept design and environment development
-- Player journey diagrams
-- Gameplay flowchart
-- Unity development screenshots
-- Selected in-game VR screenshots
+**Environment Concept Design**
 
-> Development images will be added after the final portfolio selection is prepared.
+![Level 1 environment concept design](level%201%20sketch%201.png)
 
-<!-- Future media structure:
-assets/images/concept-design/
-assets/images/level-1-home/
-assets/images/level-2-school/
-assets/images/level-3-farm/
-assets/images/flowcharts/
-assets/gifs/
-assets/video/
--->
+**Player Journey Concept**
+
+![Level 1 player journey concept](Level%201%20sketch%202.png)
+
+### Level 2 — School
+
+**Environment Concept Design**
+
+![Level 2 environment concept design](Level%202%20sketch%201.png)
+
+**Player Journey Concept**
+
+![Level 2 player journey concept](Level%202%20sketch%202.png)
+
+### Level 3 — Farm
+
+**Environment Concept Design**
+
+![Level 3 environment concept design](Level%203%20sketch%201.png)
+
+**Player Journey Concept**
+
+![Level 3 player journey concept](Level%203%20sketch%202.png)
+
+> Additional Unity development screenshots and selected in-game VR screenshots will be added as the portfolio case study is expanded.
 
 ## Research & Evaluation
 
