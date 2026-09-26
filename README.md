@@ -4,9 +4,9 @@
 
 ## 🎬 Concept Trailer
 
-[![Watch the Quest for Everyday Heroes Concept Trailer](level%201%20sketch%201.png)](Trailer.mp4)
+[![Watch the Quest for Everyday Heroes Concept Trailer](thubnail.jpg)](https://youtu.be/YzO6vu9Cmg4)
 
-**▶ Click the preview above to watch the concept trailer.**
+**▶ Click the preview above to watch the concept trailer on YouTube.**
 
 The concept trailer presents the vision behind *Quest for Everyday Heroes*, introducing the everyday environments and activities that shape the VR experience across home, school, and farm scenarios.
 
