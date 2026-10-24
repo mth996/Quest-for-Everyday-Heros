@@ -10,7 +10,7 @@
 
 The concept trailer presents the vision behind *Quest for Everyday Heroes*, introducing the everyday environments and activities that shape the VR experience across home, school, and farm scenarios.
 
-> **Note:** This is a project concept trailer. A separate gameplay demonstration featuring footage from the implemented VR experience will be added later.
+> **Note:** This is the 2D animated concept trailer. A separate gameplay trailer is available on the [portfolio project page](https://mthportfolio.chronocraftstudios.com/quest-for-everyday-heroes.html).
 
 ## Research Project
 
@@ -26,7 +26,7 @@ The concept trailer presents the vision behind *Quest for Everyday Heroes*, intr
 
 The project explores the application of immersive technologies in educational games, with a particular focus on supporting the development and practice of daily life skills. Players progress through scenarios inspired by real-world activities and complete structured tasks through exploration, interaction with virtual objects, and engagement with non-player characters (NPCs).
 
-The game is being developed as the practical component of my MSc in Computing by Research at Asia Pacific University of Technology & Innovation (APU).
+The game was developed as the practical component of my MSc in Computing by Research at Asia Pacific University of Technology & Innovation (APU).
 
 ## Project Goals
 
